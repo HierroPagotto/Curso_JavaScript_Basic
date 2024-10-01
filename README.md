@@ -1,1 +1,1 @@
-# Curso_JavaScript
+# Curso_JavaScript_Basic
