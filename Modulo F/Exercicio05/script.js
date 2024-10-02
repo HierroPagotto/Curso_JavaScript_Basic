@@ -59,4 +59,3 @@ function finalizar(){
 
     }
 }
-//Minuto 6:35 (Exercicios JavaScript (Parte 8))
